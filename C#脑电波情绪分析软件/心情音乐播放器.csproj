@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01B502C2-17ED-4364-B16E-E24BE972C85F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>心情音乐播放器</RootNamespace>
+    <AssemblyName>心情音乐播放器</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accord, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Audio, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Audio.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Audio.DirectSound, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Audio.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Audio.Formats, Version=3.0.0.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Audio.Formats.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Audition, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Audition.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Controls, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Controls.Audio, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Controls.Audio.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Controls.Imaging, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Controls.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Controls.Vision, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Controls.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Fuzzy, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Fuzzy.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Genetic, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Genetic.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Imaging, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.IO, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.MachineLearning, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.MachineLearning.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.MachineLearning.GPL, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.MachineLearning.GPL.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Math, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Neuro, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Neuro.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Statistics, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Statistics.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video.DirectShow, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video.FFMPEG, Version=3.0.0.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Video.FFMPEG.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video.Kinect, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Video.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video.VFW, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Video.VFW.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video.Ximea, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Video.Ximea.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Vision, Version=3.0.2.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\Accord.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\Accord.NET\Framework\Release\net45\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="皮肤\skin\Calmness.ssk" />
+    <None Include="皮肤\skin\CalmnessColor1.ssk" />
+    <None Include="皮肤\skin\CalmnessColor2.ssk" />
+    <None Include="皮肤\skin\DeepCyan.ssk" />
+    <None Include="皮肤\skin\DeepGreen.ssk" />
+    <None Include="皮肤\skin\DeepOrange.ssk" />
+    <None Include="皮肤\skin\DiamondBlue.ssk" />
+    <None Include="皮肤\skin\DiamondGreen.ssk" />
+    <None Include="皮肤\skin\Eighteen.ssk" />
+    <None Include="皮肤\skin\EighteenColor1.ssk" />
+    <None Include="皮肤\skin\EighteenColor2.ssk" />
+    <None Include="皮肤\skin\GlassBrown.ssk" />
+    <None Include="皮肤\skin\GlassGreen.ssk" />
+    <None Include="皮肤\skin\GlassOrange.ssk" />
+    <None Include="皮肤\skin\Longhorn.ssk" />
+    <None Include="皮肤\skin\MacOS.ssk" />
+    <None Include="皮肤\skin\Midsummer.ssk" />
+    <None Include="皮肤\skin\MidsummerColor1.ssk" />
+    <None Include="皮肤\skin\MidsummerColor2.ssk" />
+    <None Include="皮肤\skin\MidsummerColor3.ssk" />
+    <None Include="皮肤\skin\MP10.SSK" />
+    <None Include="皮肤\skin\MSN.SSK" />
+    <None Include="皮肤\skin\OneBlue.ssk" />
+    <None Include="皮肤\skin\OneCyan.ssk" />
+    <None Include="皮肤\skin\OneGreen.ssk" />
+    <None Include="皮肤\skin\OneOrange.ssk" />
+    <None Include="皮肤\skin\Page.ssk" />
+    <None Include="皮肤\skin\PageColor1.ssk" />
+    <None Include="皮肤\skin\PageColor2.ssk" />
+    <None Include="皮肤\skin\RealOne.ssk" />
+    <None Include="皮肤\skin\Silver.ssk" />
+    <None Include="皮肤\skin\SilverColor1.ssk" />
+    <None Include="皮肤\skin\SilverColor2.ssk" />
+    <None Include="皮肤\skin\SportsBlack.ssk" />
+    <None Include="皮肤\skin\SportsBlue.ssk" />
+    <None Include="皮肤\skin\SportsCyan.ssk" />
+    <None Include="皮肤\skin\SportsGreen.ssk" />
+    <None Include="皮肤\skin\SportsOrange.ssk" />
+    <None Include="皮肤\skin\SteelBlack.ssk" />
+    <None Include="皮肤\skin\SteelBlue.ssk" />
+    <None Include="皮肤\skin\VISTA1.SSK" />
+    <None Include="皮肤\skin\vista1_green.ssk" />
+    <None Include="皮肤\skin\Vista2_color1.ssk" />
+    <None Include="皮肤\skin\Vista2_color2.ssk" />
+    <None Include="皮肤\skin\Vista2_color3.ssk" />
+    <None Include="皮肤\skin\Vista2_color4.ssk" />
+    <None Include="皮肤\skin\Vista2_color5.ssk" />
+    <None Include="皮肤\skin\Vista2_color6.ssk" />
+    <None Include="皮肤\skin\Vista2_color7.ssk" />
+    <None Include="皮肤\skin\Warm.ssk" />
+    <None Include="皮肤\skin\WarmColor1.ssk" />
+    <None Include="皮肤\skin\WarmColor2.ssk" />
+    <None Include="皮肤\skin\WarmColor3.ssk" />
+    <None Include="皮肤\skin\Wave.ssk" />
+    <None Include="皮肤\skin\WaveColor1.ssk" />
+    <None Include="皮肤\skin\WaveColor2.ssk" />
+    <None Include="皮肤\skin\XPBlue.ssk" />
+    <None Include="皮肤\skin\XPGreen.ssk" />
+    <None Include="皮肤\skin\XPOrange.ssk" />
+    <None Include="皮肤\skin\XPSilver.ssk" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="皮肤\IrisSkin2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

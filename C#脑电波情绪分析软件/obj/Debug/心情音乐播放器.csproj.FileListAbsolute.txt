@@ -1,0 +1,470 @@
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\心情音乐播放器.exe.config
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\心情音乐播放器.exe
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\心情音乐播放器.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.Formats.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audition.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Audio.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Vision.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Fuzzy.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Genetic.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Imaging.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.IO.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.MachineLearning.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Math.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Neuro.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Statistics.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.Kinect.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.VFW.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.Ximea.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Vision.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\IrisSkin2.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\ZedGraph.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.Formats.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audio.Formats.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audition.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Audition.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Audio.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Audio.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Vision.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Controls.Vision.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Fuzzy.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Fuzzy.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Genetic.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Genetic.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Imaging.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Imaging.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.IO.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.IO.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.MachineLearning.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.MachineLearning.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Math.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Math.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Neuro.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Neuro.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Statistics.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Statistics.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.Kinect.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.Kinect.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.VFW.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.VFW.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.Ximea.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Video.Ximea.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Vision.pdb
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Accord.Vision.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\ZedGraph.xml
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\Interop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\bin\Debug\AxInterop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\Interop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\AxInterop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.ResolveComReference.cache
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.Form1.resources
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.Properties.Resources.resources
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.GenerateResource.Cache
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.exe
+D:\百度云同步盘\GUI\心情音乐播放器\心情音乐播放器\obj\Debug\心情音乐播放器.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\心情音乐播放器.exe.config
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\Interop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\AxInterop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.ResolveComReference.cache
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.exe
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\心情音乐播放器.exe
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\心情音乐播放器.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.Formats.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audition.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Audio.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Vision.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Fuzzy.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Genetic.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Imaging.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.IO.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Math.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Neuro.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Statistics.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Kinect.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.VFW.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Ximea.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Vision.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\IrisSkin2.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\ZedGraph.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.Formats.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.Formats.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audition.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audition.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Audio.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Audio.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Vision.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Vision.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Fuzzy.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Fuzzy.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Genetic.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Genetic.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Imaging.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Imaging.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.IO.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.IO.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Math.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Math.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Neuro.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Neuro.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Statistics.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Statistics.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Kinect.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Kinect.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.VFW.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.VFW.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Ximea.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Ximea.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Vision.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Vision.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\ZedGraph.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Interop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\AxInterop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.Form1.resources
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.Properties.Resources.resources
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\心情音乐播放器.exe.config
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.exe
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\心情音乐播放器.exe
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\心情音乐播放器.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.Formats.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audition.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Audio.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Vision.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Fuzzy.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Genetic.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Imaging.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.IO.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Math.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Neuro.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Statistics.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Kinect.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.VFW.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Ximea.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Vision.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\IrisSkin2.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.Formats.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audio.Formats.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audition.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Audition.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Audio.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Audio.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Vision.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Controls.Vision.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Fuzzy.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Fuzzy.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Genetic.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Genetic.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Imaging.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Imaging.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.IO.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.IO.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Math.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Math.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Neuro.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Neuro.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Statistics.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Statistics.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Kinect.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Kinect.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.VFW.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.VFW.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Ximea.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Video.Ximea.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Vision.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Accord.Vision.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.Form1.resources
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.Properties.Resources.resources
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2)\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\心情音乐播放器.exe.config
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.exe
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\心情音乐播放器.exe
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\心情音乐播放器.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.Formats.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audition.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Audio.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Vision.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Fuzzy.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Genetic.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Imaging.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.IO.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Math.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Neuro.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Statistics.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Kinect.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.VFW.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Ximea.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Vision.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\IrisSkin2.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.Formats.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.Formats.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audition.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audition.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Audio.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Audio.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Vision.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Vision.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Fuzzy.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Fuzzy.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Genetic.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Genetic.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Imaging.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Imaging.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.IO.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.IO.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Math.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Math.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Neuro.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Neuro.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Statistics.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Statistics.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Kinect.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Kinect.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.VFW.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.VFW.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Ximea.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Ximea.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Vision.pdb
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Vision.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.Form1.resources
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.Properties.Resources.resources
+C:\Users\Admin\Desktop\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.GenerateResource.Cache
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\心情音乐播放器.exe.config
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\Interop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\AxInterop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.ResolveComReference.cache
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.exe
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\心情音乐播放器.exe
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\心情音乐播放器.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.Formats.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audition.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Audio.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Vision.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Fuzzy.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Genetic.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Imaging.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.IO.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Math.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Neuro.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Statistics.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Kinect.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.VFW.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Ximea.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Vision.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\IrisSkin2.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\ZedGraph.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.DirectSound.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.Formats.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audio.Formats.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audition.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Audition.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Audio.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Audio.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Imaging.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Vision.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Controls.Vision.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Fuzzy.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Fuzzy.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Genetic.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Genetic.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Imaging.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Imaging.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.IO.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.IO.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.MachineLearning.GPL.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Math.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Math.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Neuro.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Neuro.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Statistics.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Statistics.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.DirectShow.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.FFMPEG.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Kinect.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Kinect.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.VFW.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.VFW.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Ximea.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Video.Ximea.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Vision.pdb
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Accord.Vision.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\ZedGraph.xml
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\Interop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\bin\Debug\AxInterop.WMPLib.dll
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.Form1.resources
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.Properties.Resources.resources
+D:\百度云同步盘\GUI\心情音乐播放器 - 副本 (2) - 副本\心情音乐播放器\obj\Debug\心情音乐播放器.csproj.GenerateResource.Cache
+C:\Users\hu108\Desktop\心情音乐播放器test\bin\Debug\心情音乐播放器.exe.config
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\Interop.WMPLib.dll
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.csproj.ResolveComReference.cache
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.exe
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.pdb
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.csprojResolveAssemblyReference.cache
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.Form1.resources
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.Properties.Resources.resources
+C:\Users\hu108\Desktop\心情音乐播放器test\obj\Debug\心情音乐播放器.csproj.GenerateResource.Cache
